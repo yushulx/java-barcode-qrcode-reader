@@ -1,6 +1,9 @@
-# Java Barcode Reader
+# Java Barcode and QR Code Reader
 
-The sample shows how to use [Dynamsoft Barcode Reader SDK for Java](https://www.dynamsoft.com/barcode-reader/sdk-desktop-server/) to build a simple Java barcode reader on Windows, Linux (**AMD64 and ARM64**), and macOS.
+The sample shows how to use [Dynamsoft Barcode Reader SDK for Java](https://www.dynamsoft.com/barcode-reader/sdk-desktop-server/) to build a simple Java barcode and QR code reader on Windows, Linux (**AMD64 and ARM64**), and macOS.
+
+## SDK Version
+[v9.0](https://www.dynamsoft.com/barcode-reader/downloads/)
 
 ## Usage
 
