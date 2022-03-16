@@ -1,13 +1,13 @@
 # Java Barcode Reader
 
-The sample shows how to use [Dynamsoft Barcode Reader SDK](https://www.dynamsoft.com/Products/Dynamic-Barcode-Reader.aspx) to build a simple Java barcode reader.
+The sample shows how to use [Dynamsoft Barcode Reader SDK for Java](https://www.dynamsoft.com/barcode-reader/sdk-desktop-server/) to build a simple Java barcode reader on Windows, Linux (**AMD64 and ARM64**), and macOS.
 
 ## Usage
 
-Set a valid [license key](https://www.dynamsoft.com/CustomerPortal/Portal/Triallicense.aspx):
+Set a valid [license key](https://www.dynamsoft.com/customer/license/trialLicense?product=dbr):
 
 ```java
-br = new BarcodeReader("LICENSE-KEY");
+BarcodeReader.initLicense("LICENSE-KEY");
 ```
 
 Run the Java program in command-line tools:
