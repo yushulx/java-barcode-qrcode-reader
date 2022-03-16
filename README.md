@@ -20,6 +20,8 @@ mvn clean install assembly:assembly
 java -cp target/test-1.0-SNAPSHOT-jar-with-dependencies.jar com.dynamsoft.App images/AllSupportedBarcodeTypes.png
 ```
 
+![Java barcode and QR code reader](https://www.dynamsoft.com/codepool/img/2022/03/arm64-jetson-nano-java-barcode.png)
+
 ## Docker Linux Container
 
 ```
