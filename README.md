@@ -27,5 +27,8 @@ docker run -it dynamsoft/barcode-reader
 
 ![Java barcode reader in Docker](https://www.codepool.biz/wp-content/uploads/2020/02/java-barcode-reader-docker.png)
 
+## More Samples
+https://github.com/Dynamsoft/barcode-reader-java-samples
+
 ## Blog
 [How to Use Dynamsoft Java Barcode Reader to Scan Multiple Barcodes](https://www.codepool.biz/java-barcode-reader-scan-multiple.html)
